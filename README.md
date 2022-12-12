@@ -2,6 +2,6 @@
 
 Booking yacht 
 
-### Video Preview of Final UI
+### Preview of Final UI
 
 ![Preview](/ui.webp)
